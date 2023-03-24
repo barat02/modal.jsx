@@ -1,0 +1,262 @@
+
+.modal_header{
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  width: 750px;
+
+
+
+}
+
+.bag_header{
+
+ 
+  
+  
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 79px;
+
+
+
+  color: #000000;
+  
+ 
+}
+
+
+
+
+.clouse_div{
+ 
+  
+  padding: 60px;
+  
+    
+  
+  
+  
+
+}
+
+.order_ds{
+  display: flex;
+  
+  justify-content: space-between;
+
+  width: 750px;
+  margin: 0 auto;
+  
+}
+
+
+.orders{
+  width: 60%;
+  
+
+
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+
+  color: #000000;
+  
+
+}
+
+
+.buy{
+  
+  
+  
+  
+  
+  
+  text-decoration: underline;
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 34px;
+
+  color: #000000;
+
+}
+
+
+.hrr_line{
+  border: 3px solid #353333;
+  transform: rotate(-0.08deg);
+  width: 754px;
+  margin-bottom: 150px;
+
+  
+}
+
+.hr_line{
+  width: 754px;
+  
+
+}
+
+.rec{
+  display: flex;
+  justify-content: center;
+  width: 87%;
+
+
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 65px;
+
+
+
+  color: #535151;
+}
+
+
+
+.rec_products{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+.solor_products{
+  display: flex;
+  justify-content: center;
+}
+
+
+.soloration{
+  background-image: url(../src/components/assets/solar.png);
+  display: flex;
+  align-items: end;
+  width: 266px;
+  height: 313px;
+}
+
+.solor{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: end;
+
+}
+
+
+.axidition{
+  align-items: end;
+  display: flex;
+  background-image: url(../src/components/assets/axid.png);
+  width: 266px;
+  height: 313px;
+
+}
+
+.axid{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: end;
+}
+
+.presentation{
+  align-items: end;
+  display: flex;
+  background-image: url(../src/components/assets/present.png);
+  width: 266px;
+  height: 313px;
+
+}
+
+
+
+.present{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: end;
+}
+
+
+
+.li_star{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stario{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 750px;
+
+  font-family: 'Noto Serif HK';
+
+}
+
+
+
+
+
+
+.check_button{
+  
+  width: 780px;
+  height: 100px; 
+  margin: 0 auto;
+}
+
+
+.item_check{
+  background-color: #424244;
+  color: white;
+  width: 780px;
+  height: 100px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 34px;
+  
+  color: #FFFDFD;
+  
+
+}
+
+.continue_footer{
+  
+  display: flex;
+  justify-content: center;
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 33px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+
+.price_check{
+
+  margin: 515px;
+}
+
